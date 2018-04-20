@@ -1,11 +1,20 @@
 <template>
   <div>
 
-    <section class="hero is-small is-warning is-bold">
+    <section class="hero is-light is-bold">
       <div class="hero-body">
         <div class="container">
-          <h2 class="title is-2">Mike Donnici</h2>
-          <h4 class="subtitle is-4">Full-stack web developer</h4>
+          <div class="columns is-mobile is-vcentered">
+            <div class="column is-narrow">
+              <figure class="image is-96x96">
+                <img src="~/assets/mike.png">
+              </figure>
+            </div>
+            <div class="column">
+              <h2 class="title is-2 is-size-4-mobile">Mike Donnici</h2>
+              <h4 class="subtitle is-4 is-size-6-mobile">Full-stack web developer</h4>
+            </div>
+          </div>
         </div>
       </div>
     </section>
@@ -26,13 +35,13 @@
         <div class="container">
           <h3 class="title is-3">Employment</h3>
             <h5 class="title is-5">Web Systems Manager, CSANZ</h5>
-            <p class="subtitle is-6">Feb 2014 - present // Sydney, AU</p>
+            <p class="subtitle is-6">Feb 2014 - present // Remote, AU</p>
             <ul class="top-margin">
               <li>Management and ongoing development of the HeartOne platform</li>
               <li>Consult to CPD committee on tech & dev issues</li>
             </ul>
             <h5 class="title is-5">Owner / Director, Mesa</h5>
-            <p class="subtitle is-6">2004 - present // Sydney, AU</p>
+            <p class="subtitle is-6">2004 - present // Remote, AU</p>
             <ul>
               <li>Web development and services, AWS, Heroku</li>
               <li>MappCPD system operations</li>
@@ -62,26 +71,29 @@
               <a class="button is-warning is-outlined" href="https://github.com/mappcpd/web-services/"
                  target="_blank">
                 <span class="icon"><i class="fab fa-github"></i></span>
-                <span>repo</span>
+                <span>Repo</span>
               </a>
               <a class="button is-info is-outlined" href="https://api-docs.mappcpd.com/" target="_blank">
                 <span class="icon"><i class="fas fa-file"></i></span>
-                <span>api docs</span>
+                <span>API Docs</span>
+              </a>
+              <a class="button is-dark is-outlined" href="http://mappcpd-csanz-graphql.herokuapp.com/graphql" target="_blank">
+                <span class="icon"><i class="fas fa-file"></i></span>
+                <span>GraphiQL</span>
               </a>
             </p>
           <article>
             <h5 class="title is-5">MappCPD Web App</h5>
             <p class="subtitle is-6">A new front end for the MappCPD member application developed with VueJS / Nuxt.</p>
             <p class="buttons">
-              <a class="button is-warning is-outlined" href="https://github.com/mappcpd/web-services/"
-                 target="_blank">
+              <a class="button is-warning is-outlined" href="https://github.com/cardiacsociety/h1-bulma" target="_blank">
                 <span class="icon"><i class="fab fa-github"></i></span>
-                <span>repo</span>
+                <span>Repo</span>
               </a>
-              <a class="button is-info is-outlined" href="https://api-docs.mappcpd.com/" target="_blank">
+              <button class="button is-info is-outlined" disabled target="_blank">
                 <span class="icon"><i class="fas fa-external-link-alt"></i></span>
-                <span>demo</span>
-              </a>
+                <span>Demo (soon)</span>
+              </button>
             </p>
           </article>
         </div>
@@ -198,6 +210,9 @@
   }
   .footer {
     margin-top: 2rem;
+  }
+  img {
+    border-radius: 8%;
   }
 
 </style>
