@@ -90,10 +90,11 @@
                 <span class="icon"><i class="fab fa-github"></i></span>
                 <span>Repo</span>
               </a>
-              <button class="button is-info is-outlined" disabled target="_blank">
+              <a class="button is-info is-outlined" href="https://h1-demo.csanz.io" target="_blank">
                 <span class="icon"><i class="fas fa-external-link-alt"></i></span>
-                <span>Demo (soon)</span>
-              </button>
+                <span>Demo</span>
+              </a>
+              <span class="is-italic">login: member@mappcpd.com / demoMember1</span>
             </p>
           </article>
         </div>
