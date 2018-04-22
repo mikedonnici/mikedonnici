@@ -34,27 +34,27 @@
       <div class="content">
         <div class="container">
           <h3 class="title is-3">Employment</h3>
-            <h5 class="title is-5">Web Systems Manager, CSANZ</h5>
-            <p class="subtitle is-6">Feb 2014 - present // Remote, AU</p>
-            <ul class="top-margin">
-              <li>Management and ongoing development of the HeartOne platform</li>
-              <li>Consult to CPD committee on tech & dev issues</li>
-            </ul>
-            <h5 class="title is-5">Owner / Director, Mesa</h5>
-            <p class="subtitle is-6">2004 - present // Remote, AU</p>
-            <ul>
-              <li>Web development and services, AWS, Heroku</li>
-              <li>MappCPD system operations</li>
-              <li>Online ordering system for
-                <a href="https://order.gelatomessina.com" target="_blank">Gelato Messina</a></li>
-            </ul>
-            <h5 class="title is-5">Previous</h5>
-            <ul>
-              <li>2000 - 2004: Linux sys admin, LAMP stack development</li>
-              <li>1997 - 2000: data cable installation, hardware & network admin</li>
-              <li>1995 - 1997: Quarantine officer, kickboxing instructor</li>
-              <li>1992 - 1995: farmhand, trades assistant</li>
-            </ul>
+          <h5 class="title is-5">Web Systems Manager, CSANZ</h5>
+          <p class="subtitle is-6">Feb 2014 - present // Remote, AU</p>
+          <ul class="top-margin">
+            <li>Management and ongoing development of the HeartOne platform</li>
+            <li>Consult to CPD committee on tech & dev issues</li>
+          </ul>
+          <h5 class="title is-5">Owner / Director, Mesa</h5>
+          <p class="subtitle is-6">2004 - present // Remote, AU</p>
+          <ul>
+            <li>Web development and services, AWS, Heroku</li>
+            <li>MappCPD system operations</li>
+            <li>Online ordering system for
+              <a href="https://order.gelatomessina.com" target="_blank">Gelato Messina</a></li>
+          </ul>
+          <h5 class="title is-5">Previous</h5>
+          <ul>
+            <li>2000 - 2004: Linux sys admin, LAMP stack development</li>
+            <li>1997 - 2000: data cable installation, hardware & network admin</li>
+            <li>1995 - 1997: Quarantine officer, kickboxing instructor</li>
+            <li>1992 - 1995: farmhand, trades assistant</li>
+          </ul>
         </div>
       </div>
     </section>
@@ -63,30 +63,32 @@
       <div class="content">
         <div class="container">
           <h3 class="title is-3">Current Projects</h3>
-            <h5 class="title is-5">MappCPD Web Services</h5>
-            <p class="subtitle is-6">Backend services written in Go, aimed at dismantling a monolithic web application
-              and extending functionality and flexibility. Includes a REST(ish) API, GraphQL API, short-link redirector,
-              Algolia indexer, Pubmed article fetcher and more.</p>
-            <p class="buttons">
-              <a class="button is-warning is-outlined" href="https://github.com/mappcpd/web-services/"
-                 target="_blank">
-                <span class="icon"><i class="fab fa-github"></i></span>
-                <span>Repo</span>
-              </a>
-              <a class="button is-info is-outlined" href="https://api-docs.mappcpd.com/" target="_blank">
-                <span class="icon"><i class="fas fa-file"></i></span>
-                <span>API Docs</span>
-              </a>
-              <a class="button is-dark is-outlined" href="http://mappcpd-csanz-graphql.herokuapp.com/graphql" target="_blank">
-                <span class="icon"><i class="fas fa-file"></i></span>
-                <span>GraphiQL</span>
-              </a>
-            </p>
+          <h5 class="title is-5">MappCPD Web Services</h5>
+          <p class="subtitle is-6">Backend services written in Go, aimed at dismantling a monolithic web application
+            and extending functionality and flexibility. Includes a REST(ish) API, GraphQL API, short-link redirector,
+            Algolia indexer, Pubmed article fetcher and more.</p>
+          <p class="buttons">
+            <a class="button is-warning is-outlined" href="https://github.com/mappcpd/web-services/"
+               target="_blank">
+              <span class="icon"><i class="fab fa-github"></i></span>
+              <span>Repo</span>
+            </a>
+            <a class="button is-info is-outlined" href="https://api-docs.mappcpd.com/" target="_blank">
+              <span class="icon"><i class="fas fa-file"></i></span>
+              <span>API Docs</span>
+            </a>
+            <a class="button is-dark is-outlined" href="http://mappcpd-csanz-graphql.herokuapp.com/graphql"
+               target="_blank">
+              <span class="icon"><i class="fas fa-file"></i></span>
+              <span>GraphiQL</span>
+            </a>
+          </p>
           <article>
             <h5 class="title is-5">MappCPD Web App</h5>
             <p class="subtitle is-6">A new front end for the MappCPD member application developed with VueJS / Nuxt.</p>
             <p class="buttons">
-              <a class="button is-warning is-outlined" href="https://github.com/cardiacsociety/h1-bulma" target="_blank">
+              <a class="button is-warning is-outlined" href="https://github.com/cardiacsociety/h1-bulma"
+                 target="_blank">
                 <span class="icon"><i class="fab fa-github"></i></span>
                 <span>Repo</span>
               </a>
@@ -124,35 +126,33 @@
         <section class="modal-card-body">
           <div class="content">
             <p>
-              In 1997 I made the jump from Quarantine officer to IT and scored a gig installing Cat5 data cable for a
-              small company in Port Macquarie, NSW. I showed a keen interest in server builds and network administration
-              and was soon looking after the network at the local hospital.
+              In 1997 I made the jump from Quarantine officer to IT by scoring a gig installing Cat5 data cable for a
+              small company in Port Macquarie. I showed a keen interest in all aspects of networking and was
+              soon looking after a local hospital network.
             </p>
             <p>
-              I then moved to Western Australia and started work for a small, but feisty computer business located near
-              Margaret River - South West ComputeAble. Whilst working here I completed the MCSE qualification which
-              helped to solidify my network experience. I also started to tinker with Linux systems and web development.
+              In 1999 I moved to Western Australia to start a new job at a small, feisty computer business located near
+              Margaret River - South West ComputeAble. Whilst there I completed the Microsoft Certified Systems Engineer
+              course and gained a lot of hands-on networking experience. I started to tinker with Linux systems and
+              web development.
             </p>
             <p>
-              In 2000 I moved back to NSW to do a short stint at a small ISP in Goulburn as a linux sys admin. I then
-              moved back to Sydney and set up as a freelance web developer (LAMP stack), until starting Mesa Group Pty
-              Ltd in 2004.
+              In 2000 I did as short stint as a sys admin with a small ISP in Goulburn before moving back to Sydney and
+              working as a freelance LAMP stack developer.
             </p>
             <p>
-              Our small team at Mesa created all manner of web sites and data-driven applications, culminating in the
-              MappCPD project deployed for the Cardiac Society of Australia and New Zealand, where I was offered a
-              permanent part-time position as the Web Systems Manager.
+              In 2004 I started a small company called Mesa which provided a range of web services from design,
+              development and systems administration. We developed a range of web database applications over more than
+              10 years, culminating in the MappCPD project deployed for the
+              <a href="http://www.csanz.edu.au" title="Cardiac Society of Australia and New Zealand" target="_blank">CSANZ</a>.
             </p>
             <p>
-              My current focus is on backend web services in Go, and front ends with VueJS.
+              I am currently employed with CSANZ as the Web Systems Manager, and my focus is on backend web services in
+              Go, and front end development with VueJS.
             </p>
             <p>
-              I'm open to new opportunities with good people. I currently work remotely, from Callala Bay and travel to
-              Sydney as required.
-            </p>
-            <p>
-              I'm the proud Dad of two kids, I have a darling wife and a crazy Kelpie. I love sailing
-              (although it's been a while), fishing and have a purple belt in Brazilian Jiu Jitsu.
+              I'm a proud father of two, husband, occasional sailor and fisherman, and a regular Brazilian Jiu Jitsu
+              practitioner.
             </p>
           </div>
         </section>
@@ -205,13 +205,16 @@
   .section {
     padding-bottom: 0;
   }
+
   .content ul {
     margin-top: -0.6rem;
     margin-left: 1.8rem;
   }
+
   .footer {
     margin-top: 2rem;
   }
+
   img {
     border-radius: 8%;
   }
