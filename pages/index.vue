@@ -67,36 +67,37 @@
           <p class="subtitle is-6">Backend services written in Go, aimed at dismantling a monolithic web application
             and extending functionality and flexibility. Includes a REST(ish) API, GraphQL API, short-link redirector,
             Algolia indexer, Pubmed article fetcher and more.</p>
-          <p class="buttons">
-            <a class="button is-warning is-outlined" href="https://github.com/mappcpd/web-services/"
-               target="_blank">
+          <p>
+            <a class="has-text-warning" href="https://github.com/mappcpd/web-services/" target="_blank">
               <span class="icon"><i class="fab fa-github"></i></span>
               <span>Repo</span>
-            </a>
-            <a class="button is-info is-outlined" href="https://api-docs.mappcpd.com/" target="_blank">
+            </a>&nbsp;
+            <a class="has-text-info" href="https://h1-resources.netlify.com" target="_blank">
+              <span class="icon"><i class="fas fa-external-link-alt"></i></span>
+              <span>Search Demo</span>
+            </a>&nbsp;
+            <a class="has-text-dark" href="https://api-docs.mappcpd.com/" target="_blank">
               <span class="icon"><i class="fas fa-file"></i></span>
               <span>API Docs</span>
-            </a>
-            <a class="button is-dark is-outlined" href="http://mappcpd-csanz-graphql.herokuapp.com/graphql"
-               target="_blank">
+            </a>&nbsp;
+            <a class="has-text-dark" href="http://mappcpd-csanz-graphql.herokuapp.com/graphql" target="_blank">
               <span class="icon"><i class="fas fa-file"></i></span>
               <span>GraphiQL</span>
-            </a>
+            </a>&nbsp;
           </p>
           <article>
             <h5 class="title is-5">MappCPD Web App</h5>
             <p class="subtitle is-6">A new front end for the MappCPD member application developed with VueJS / Nuxt.</p>
-            <p class="buttons">
-              <a class="button is-warning is-outlined" href="https://github.com/cardiacsociety/h1-bulma"
-                 target="_blank">
+            <p>
+              <a class="has-text-warning" href="https://github.com/cardiacsociety/h1-bulma" target="_blank">
                 <span class="icon"><i class="fab fa-github"></i></span>
                 <span>Repo</span>
-              </a>
-              <a class="button is-info is-outlined" href="https://h1-demo.csanz.io" target="_blank">
+              </a>&nbsp;
+              <a class="has-text-info" href="https://h1-demo.csanz.io" target="_blank">
                 <span class="icon"><i class="fas fa-external-link-alt"></i></span>
-                <span>Demo</span>
-              </a>
-              <span class="is-italic">login: member@mappcpd.com / demoMember1</span>
+                <span>App Demo</span>
+              </a>&nbsp;
+              <span class="is-italic is-size-7">(login: member@mappcpd.com / demoMember1)</span>
             </p>
           </article>
         </div>
