@@ -63,10 +63,10 @@
       <div class="content">
         <div class="container">
           <h3 class="title is-3">Current Projects</h3>
-          <h5 class="title is-5">MappCPD Web Services</h5>
-          <p class="subtitle is-6">Backend services written in Go, aimed at dismantling a monolithic web application
+          <p><span class="has-text-weight-semibold">MappCPD Web Services</span><br>
+            Backend services written in Go, aimed at dismantling a monolithic web application
             and extending functionality and flexibility. Includes a REST(ish) API, GraphQL API, short-link redirector,
-            Algolia indexer, Pubmed article fetcher and more.</p>
+            Algolia indexer, Pubmed article fetcher and more.
           <p>
             <a class="has-text-warning" href="https://github.com/mappcpd/web-services/" target="_blank">
               <span class="icon"><i class="fab fa-github"></i></span>
@@ -86,8 +86,9 @@
             </a>&nbsp;
           </p>
           <article>
-            <h5 class="title is-5">MappCPD Web App</h5>
-            <p class="subtitle is-6">A new front end for the MappCPD member application developed with VueJS / Nuxt.</p>
+            <p><span class="has-text-weight-semibold">MappCPD Web App</span><br>
+            A new front end for the MappCPD member application developed with VueJS / Nuxt.
+            </p>
             <p>
               <a class="has-text-warning" href="https://github.com/cardiacsociety/h1-bulma" target="_blank">
                 <span class="icon"><i class="fab fa-github"></i></span>
@@ -217,7 +218,8 @@
   }
 
   img {
-    border-radius: 8%;
+    border-radius: 50%;
+    border: solid 3px #DFF3FA;
   }
 
 </style>
