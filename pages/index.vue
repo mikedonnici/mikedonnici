@@ -34,26 +34,29 @@
       <div class="content">
         <div class="container">
           <h3 class="title is-3">Employment</h3>
-          <h5 class="title is-5">Web Systems Manager, CSANZ</h5>
-          <p class="subtitle is-6">Feb 2014 - present // Remote, AU</p>
+          <h5 class="title is-5">IT Manager (Web Systems), CSANZ</h5>
+          <p class="subtitle is-6">Feb 2014 - present // Remote &amp; Syd, Aus.</p>
           <ul class="top-margin">
-            <li>Management and ongoing development of the HeartOne platform</li>
-            <li>Consult to CPD committee on tech & dev issues</li>
+            <li>Sole responsibility for <a href="https://mappcpd.com" target="_blank">MappCPD</a> development and operations - PHP, MySQL, AWS, Heroku</li>
+            <li>Development of new web services (Golang) - REST(ish) &amp; GraphQL, MySQL, MongoDB</li>
+            <li>Prototyping new member front-end web app - VueJS</li>
+            <li>Consult to IT Committee on tech & dev issues</li>
           </ul>
           <h5 class="title is-5">Owner / Director, Mesa</h5>
-          <p class="subtitle is-6">2004 - present // Remote, AU</p>
+          <p class="subtitle is-6">2004 - 2018 // Remote &amp; Syd, Aus.</p>
           <ul>
-            <li>Web development and services, AWS, Heroku</li>
-            <li>MappCPD system operations</li>
-            <li>Online ordering system for
-              <a href="https://order.gelatomessina.com" target="_blank">Gelato Messina</a></li>
+            <li>Web design, development and systems services - LAMP dev, Linux systems</li>
+            <li>MappCPD system operations from 2013-2018 <span class="is-italic is-size-7">(ownership transferred to CSANZ June 2018)</span></li>
+            <li><a href="https://order.gelatomessina.com" target="_blank">Gelato Messina</a>'s
+              online ordering system maintenance and operation - Linux, PHP(ZF), MySQL
+            </li>
           </ul>
           <h5 class="title is-5">Previous</h5>
           <ul>
             <li>2000 - 2004: Linux sys admin, LAMP stack development</li>
             <li>1997 - 2000: data cable installation, hardware & network admin</li>
-            <li>1995 - 1997: Quarantine officer, kickboxing instructor</li>
-            <li>1992 - 1995: farmhand, trades assistant</li>
+            <li>1994 - 1997: Quarantine officer, kickboxing instructor</li>
+            <li>1992 - 1994: farmhand, trades assistant, travel, youthful exuberance</li>
           </ul>
         </div>
       </div>
@@ -62,19 +65,18 @@
     <section class="section">
       <div class="content">
         <div class="container">
-          <h3 class="title is-3">Current Projects</h3>
+          <h3 class="title is-3">Work Samples</h3>
           <p><span class="has-text-weight-semibold">MappCPD Web Services</span><br>
-            Backend services written in Go, aimed at dismantling a monolithic web application
-            and extending functionality and flexibility. Includes a REST(ish) API, GraphQL API, short-link redirector,
-            Algolia indexer, Pubmed article fetcher and more.
+            Backend services written in Go, aimed at extending and (eventually) dismantling a monolithic PHP application.
+            Includes a REST(ish) API, GraphQL API, short-link redirector, Pubmed article fetcher, Algolia indexer.
           <p>
-            <a class="has-text-warning" href="https://github.com/mappcpd/web-services/" target="_blank">
+            <a class="has-text-warning" href="https://github.com/mikedonnici/mappcpd-services" target="_blank">
               <span class="icon"><i class="fab fa-github"></i></span>
               <span>Repo</span>
             </a>&nbsp;
-            <a class="has-text-info" href="https://h1-resources.netlify.com" target="_blank">
+            <a class="has-text-info" href="https://articles.netlify.com" target="_blank">
               <span class="icon"><i class="fas fa-external-link-alt"></i></span>
-              <span>Search Demo</span>
+              <span>Article Search Demo</span>
             </a>&nbsp;
             <a class="has-text-dark" href="https://api-docs.mappcpd.com/" target="_blank">
               <span class="icon"><i class="fas fa-file"></i></span>
@@ -87,10 +89,10 @@
           </p>
           <article>
             <p><span class="has-text-weight-semibold">MappCPD Web App</span><br>
-            A new front end for the MappCPD member application developed with VueJS / Nuxt.
+            Prototype front-end for MappCPD member app developed with <a href="https://nuxtjs.org/" target="_blank">NUXT (VueJS)</a>.
             </p>
             <p>
-              <a class="has-text-warning" href="https://github.com/cardiacsociety/h1-bulma" target="_blank">
+              <a class="has-text-warning" href="https://github.com/cardiacsociety/h1-app" target="_blank">
                 <span class="icon"><i class="fab fa-github"></i></span>
                 <span>Repo</span>
               </a>&nbsp;
@@ -112,6 +114,7 @@
           <ul>
             <li>1998 Grad. Cert. Computing, Monash University</li>
             <li>1992 B.Sc.Agr (Crop Sciences), University of Sydney</li>
+            <li>1988 HSC, Sydney Technical High School</li>
           </ul>
         </div>
       </div>
@@ -122,39 +125,45 @@
       <div class="modal-background"></div>
       <div class="modal-card">
         <header class="modal-card-head">
-          <p class="modal-card-title">... a brief bio.</p>
+          <p class="modal-card-title">Mike Donnici, briefly:</p>
           <button class="delete" aria-label="close" @click="bioModal = false"></button>
         </header>
         <section class="modal-card-body">
           <div class="content">
             <p>
-              In 1997 I made the jump from Quarantine officer to IT by scoring a gig installing Cat5 data cable for a
-              small company in Port Macquarie. I showed a keen interest in all aspects of networking and was
-              soon looking after a local hospital network.
+              After completing my Ag. Science degree, lots of travel and numerous jobs, I moved back to Sydney and became
+              a Quarantine Officer with 'AQIS'. In 1997 I wanted to make the jump to IT so I moved to a vineyard / orange
+              orchard in the Hunter Valley to work and study Computing, by distance.
+            </p>
+            <p>1998: I scored a gig installing Cat5 data cable for a small company in Port Macquarie. I showed a keen
+              interest in all aspects of networking and was soon looking after a local hospital network, amongst other
+              clients.
             </p>
             <p>
-              In 1999 I moved to Western Australia to start a new job at a small, feisty computer business located near
-              Margaret River - South West ComputeAble. Whilst there I completed the Microsoft Certified Systems Engineer
-              course and gained a lot of hands-on networking experience. I started to tinker with Linux systems and
-              web development.
+              1999: I moved to Western Australia to start a new job at a small-but-fiesty computer business located near
+              Margaret River. Whilst there I completed the Microsoft Certified Systems Engineer certification and gained
+              a lot of hands-on networking experience. I also started to tinker with Linux systems and web development.
             </p>
             <p>
-              In 2000 I did as short stint as a sys admin with a small ISP in Goulburn before moving back to Sydney and
-              working as a freelance LAMP stack developer.
+              2000: I did a stint as a Linux sys admin with a small ISP in Goulburn, NSW, before moving back to
+              Sydney to do freelance Linux sys admin and LAMP stack development.
             </p>
             <p>
-              In 2004 I started a small company called Mesa which provided a range of web services from design,
-              development and systems administration. We developed a range of web database applications over more than
-              10 years, culminating in the MappCPD project deployed for the
+              2004: I started a small company called Mesa, providing various of web services, and developing range of
+              applications over more than 10 years, culminating in the MappCPD project deployed for the
               <a href="http://www.csanz.edu.au" title="Cardiac Society of Australia and New Zealand" target="_blank">CSANZ</a>.
             </p>
             <p>
-              I am currently employed with CSANZ as the Web Systems Manager, and my focus is on backend web services in
-              Go, and front end development with VueJS.
+              2014: I am currently employed with CSANZ as IT Manager, and have the sole responsibility for the web systems. My
+              focus is on back-end web services in <a href="https://golang.org/" target="_blank">Go</a>, and front-end
+              development with <a href="https://vuejs.org/" target="_blank">VueJS</a>.
             </p>
             <p>
-              I'm a proud father of two, husband, occasional sailor and fisherman, and a regular Brazilian Jiu Jitsu
+              I'm a proud father-of-two, husband, occasional sailor and fisherman, and a regular Brazilian Jiu Jitsu
               practitioner.
+            </p>
+            <p>
+              I am genetically motivated to learn and get stuff done.
             </p>
           </div>
         </section>
@@ -172,7 +181,7 @@
           <p class="buttons">
             <button class="button is-outline" @click="bioModal = true">
               <span class="icon"><i class="fas fa-user"></i></span>
-              <span>brief bio</span>
+              <span>Bio</span>
             </button>
             <a href="https://github.com/mikedonnici" target="_blank" class="button is-outline">
               <span class="icon"><i class="fab fa-github"></i></span>
@@ -181,6 +190,10 @@
             <a :href="'mailto:'+email" class="button">
               <span class="icon"><i class="fas fa-envelope"></i></span>
               <span>Email</span>
+            </a>
+            <a href="https://www.google.com.au/maps/place/Callala+Bay+NSW+2540" target="_blank" class="button">
+              <span class="icon"><i class="fas fa-map-marker"></i></span>
+              <span>Location</span>
             </a>
           </p>
         </div>
