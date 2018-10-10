@@ -164,49 +164,38 @@
                 <section class="modal-card-body">
                     <div class="content">
                         <p>
-                            After completing my Ag. Science degree, lots of travel and numerous jobs, I moved back to
-                            Sydney and became
-                            a Quarantine Officer with 'AQIS'. In 1997 I wanted to make the jump to IT so I moved to a
-                            vineyard / orange
-                            orchard in the Hunter Valley to work and study Computing, by distance.
+                            After completing an Ag. Science degree, lots of travel and numerous jobs, I moved back to
+                            Sydney and became a Quarantine Officer. In 1997 I decided to make the jump to IT and hunkered
+                            down on a small farm in the Hunter Valley to work and study Computing (by distance).
                         </p>
-                        <p>1998: I scored a gig installing Cat5 data cable for a small company in Port Macquarie. I
-                            showed a keen
-                            interest in all aspects of networking and was soon looking after a local hospital network,
-                            amongst other
-                            clients.
+                        <p>1998: I scored a gig installing data cable for a small company in Port Macquarie where I showed
+                            a keen interest in all aspects of networking. Within 12 months I was providing network support
+                            to local businesses including Port Macquarie Base Hospital.
                         </p>
                         <p>
                             1999: I moved to Western Australia to start a new job at a small-but-fiesty computer
-                            business located near
-                            Margaret River. Whilst there I completed the Microsoft Certified Systems Engineer
-                            certification and gained
-                            a lot of hands-on networking experience. I also started to tinker with Linux systems and web
-                            development.
+                            business located near Margaret River. Whilst there I completed the Microsoft Certified
+                            Systems Engineer certification (MSCE NT4) and gained a lot of hands-on networking experience.
+                            I also started to tinker with Linux systems and web development.
                         </p>
                         <p>
-                            2000: I did a stint as a Linux sys admin with a small ISP in Goulburn, NSW, before moving
-                            back to
-                            Sydney to do freelance Linux sys admin and LAMP stack development.
+                            2000: After a short stint as a Linux sys admin with an ISP in Goulburn, I headed back to
+                            Sydney and contracted as a Linux sys admin and LAMP stack developer.
                         </p>
                         <p>
-                            2004: I started a small company called Mesa, providing various of web services, and
-                            developing range of
-                            applications over more than 10 years, culminating in the MappCPD project deployed for the
-                            <a href="http://www.csanz.edu.au" title="Cardiac Society of Australia and New Zealand"
-                               target="_blank">CSANZ</a>.
+                            2004: I started a small company called Mesa which provided the full range of web design,
+                            development and hosting services. Over more than 10 years we developed a range of custom web
+                            applications in PHP/MySQL. Our final project was a web-based membership system (MappCPD)
+                            developed for the <a href="http://www.csanz.edu.au" title="CSANZ" target="_blank">Cardiac
+                            Society of Australia and New Zealand</a> in 2013.
                         </p>
                         <p>
-                            2014: I am currently employed with CSANZ as IT Manager, and have the sole responsibility for
-                            the web systems. My
-                            focus is on back-end web services in <a href="https://golang.org/" target="_blank">Go</a>,
-                            and front-end
-                            development with <a href="https://vuejs.org/" target="_blank">VueJS</a>.
+                            2014: I took up the position of IT Manager with CSANZ and have the sole responsibility for
+                            the ongoing development and maintenance of their web systems.
                         </p>
                         <p>
                             I'm a proud father-of-two, husband, occasional sailor and fisherman, and a regular Brazilian
-                            Jiu Jitsu
-                            practitioner.
+                            Jiu Jitsu practitioner.
                         </p>
                         <p>
                             I am genetically motivated to learn and get stuff done.
