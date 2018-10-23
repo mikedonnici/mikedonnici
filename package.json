@@ -1,7 +1,7 @@
 {
   "name": "mikedonnici.com",
   "version": "1.0.0",
-  "description": "Mike Donnici",
+  "description": "Full-stack web developer with all-round chops and a keen interest in Go and VueJS.",
   "author": "Mike Donnici",
   "private": true,
   "scripts": {
