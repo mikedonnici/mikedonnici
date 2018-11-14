@@ -1,13 +1,13 @@
 <template>
     <div>
 
-        <section class="hero is-small is-info is-bold">
+        <section class="hero is-small is-warning is-bold">
             <div class="hero-body">
                 <div class="container">
                     <div class="columns is-mobile is-vcentered">
                         <div class="column is-narrow">
                             <figure class="image is-96x96">
-                                <img src="~/assets/mike.png">
+                                <img src="~/assets/MikeAvatar.png">
                             </figure>
                         </div>
                         <div class="column">
@@ -24,7 +24,7 @@
                 <div class="content">
                     <h3 class="title is-3 is-marginless">Tech</h3>
                     <p class="is-size-4">
-                        AWS, Git, Go, Heroku, Linux, MongoDB, MySQL, PHP, VueJS
+                        AWS, Docker, Git, Go, Heroku, Linux, MongoDB, MySQL, PHP, VueJS
                     </p>
                 </div>
             </div>
@@ -38,7 +38,7 @@
                     <p class="subtitle is-6">Feb 2014 - present // Remote, Sydney</p>
                     <ul class="top-margin">
                         <li>Consult to IT Committee on tech & dev issues</li>
-                        <li>Dev and ops for MappCPD membership management system (PHP, MySQL, AWS, Heroku)</li>
+                        <li>Dev and ops for MappCPD membership management system (PHP, MySQL, AWS, Heroku, Docker)</li>
                         <li>Develop web services (Golang, GraphQL, MySQL, MongoDB)</li>
                         <li>General web development and site maintenance (WordPress, VuePress, Nuxt/VueJS)</li>
                         <li>General network support as required (Windows, Office365)</li>
@@ -47,7 +47,8 @@
                     <p class="subtitle is-6">2004 - 2018 // Remote, Sydney</p>
                     <ul>
                         <li>Web design, development and systems services (LAMP stack &amp; Linux)</li>
-                        <li>MappCPD system operations from 2013-2018 <span class="is-italic is-size-7">(ownership transferred to CSANZ June 2018)</span>
+                        <li>MappCPD system operations from 2013-2018 <span class="is-italic is-size-7">(ownership
+                                transferred to CSANZ June 2018)</span>
                         </li>
                         <li><a href="https://order.gelatomessina.com" target="_blank">Gelato Messina</a>'s
                             online ordering system maintenance and operation - Linux, PHP(ZF), MySQL
@@ -100,8 +101,7 @@
                             indexer.
                         </p>
                         <p>
-                            <a class="has-text-warning" href="https://github.com/mikedonnici/mappcpd-services"
-                               target="_blank">
+                            <a class="has-text-warning" href="https://github.com/mikedonnici/mappcpd-services" target="_blank">
                                 <span class="icon"><i class="fab fa-github"></i></span>
                                 <span>Repo</span>
                             </a>&nbsp;
@@ -113,8 +113,7 @@
                                 <span class="icon"><i class="fas fa-file"></i></span>
                                 <span>API Docs</span>
                             </a>&nbsp;
-                            <a class="has-text-dark" href="https://mappcpd-csanz-graphql.herokuapp.com/graphql"
-                               target="_blank">
+                            <a class="has-text-dark" href="https://mappcpd-csanz-graphql.herokuapp.com/graphql" target="_blank">
                                 <span class="icon"><i class="fas fa-file"></i></span>
                                 <span>GraphiQL</span>
                             </a>&nbsp;
@@ -158,24 +157,42 @@
             <div class="modal-background"></div>
             <div class="modal-card">
                 <header class="modal-card-head">
-                    <p class="modal-card-title">Mike Donnici, briefly:</p>
+
+                    <div class="modal-card-title">
+                        <div class="media">
+                            <div class="media-left">
+                                <figure class="image is-64x64">
+                                    <img src="~/assets/mike.png" alt="Mike">
+                                </figure>
+                            </div>
+                            <div class="media-content">
+                                <p class="title is-4">Mike Donnici</p>
+                                <p class="subtitle is-6">...a brief history</p>
+                            </div>
+                        </div>
+                    </div>
+
                     <button class="delete" aria-label="close" @click="bioModal = false"></button>
                 </header>
                 <section class="modal-card-body">
                     <div class="content">
                         <p>
                             After completing an Ag. Science degree, lots of travel and numerous jobs, I moved back to
-                            Sydney and became a Quarantine Officer. In 1997 I decided to make the jump to IT and hunkered
+                            Sydney and became a Quarantine Officer. In 1997 I decided to make the jump to IT and
+                            hunkered
                             down on a small farm in the Hunter Valley to work and study Computing (by distance).
                         </p>
-                        <p>1998: I scored a gig installing data cable for a small company in Port Macquarie where I showed
-                            a keen interest in all aspects of networking. Within 12 months I was providing network support
+                        <p>1998: I scored a gig installing data cable for a small company in Port Macquarie where I
+                            showed
+                            a keen interest in all aspects of networking. Within 12 months I was providing network
+                            support
                             to local businesses including Port Macquarie Base Hospital.
                         </p>
                         <p>
                             1999: I moved to Western Australia to start a new job at a small-but-fiesty computer
                             business located near Margaret River. Whilst there I completed the Microsoft Certified
-                            Systems Engineer certification (MSCE NT4) and gained a lot of hands-on networking experience.
+                            Systems Engineer certification (MSCE NT4) and gained a lot of hands-on networking
+                            experience.
                             I also started to tinker with Linux systems and web development.
                         </p>
                         <p>
@@ -184,17 +201,19 @@
                         </p>
                         <p>
                             2004: I started a small company called Mesa which provided the full range of web design,
-                            development and hosting services. Over more than 10 years we developed a range of custom web
+                            development and hosting services. Over more than 10 years we developed a range of custom
+                            web
                             applications in PHP/MySQL. Our final project was a web-based membership system (MappCPD)
-                            developed for the <a href="http://www.csanz.edu.au" title="CSANZ" target="_blank">Cardiac
-                            Society of Australia and New Zealand</a> in 2013.
+                            developed for the <a href="http://www.csanz.edu.au" title="the Cardiac Society of Australia and New Zealand" target="_blank">CSANZ</a> in 2013.
                         </p>
                         <p>
                             2014: I took up the position of IT Manager with CSANZ and have the sole responsibility for
                             the ongoing development and maintenance of their web systems.
                         </p>
+                        <hr>
                         <p>
-                            I'm a proud father-of-two, husband, occasional sailor and fisherman, and a regular Brazilian
+                            I'm a proud father-of-two, husband, occasional sailor and fisherman, and a regular
+                            Brazilian
                             Jiu Jitsu practitioner.
                         </p>
                         <p>
@@ -226,8 +245,7 @@
                             <span class="icon"><i class="fas fa-envelope"></i></span>
                             <span>Email</span>
                         </a>
-                        <a href="https://www.google.com.au/maps/place/Callala+Bay+NSW+2540" target="_blank"
-                           class="button">
+                        <a href="https://www.google.com.au/maps/place/Callala+Bay+NSW+2540" target="_blank" class="button">
                             <span class="icon"><i class="fas fa-map-marker"></i></span>
                             <span>Location</span>
                         </a>
@@ -240,16 +258,14 @@
 </template>
 
 <script>
-
     export default {
-
         data() {
             return {
                 bioModal: false,
-                email: "michael@mesa.net.au",
-            }
+                email: "michael@mesa.net.au"
+            };
         }
-    }
+    };
 </script>
 
 <style>
@@ -272,7 +288,6 @@
 
     img {
         border-radius: 50%;
-        border: solid 3px #DFF3FA;
+        border: solid 3px #dff3fa;
     }
-
 </style>
