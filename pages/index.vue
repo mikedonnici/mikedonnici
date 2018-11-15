@@ -7,7 +7,7 @@
                     <div class="columns is-mobile is-vcentered">
                         <div class="column is-narrow">
                             <figure class="image is-96x96">
-                                <img src="~/assets/MikeAvatar.png">
+                                <img src="~/assets/mike.png">
                             </figure>
                         </div>
                         <div class="column">
@@ -189,11 +189,10 @@
                             to local businesses including Port Macquarie Base Hospital.
                         </p>
                         <p>
-                            1999: I moved to Western Australia to start a new job at a small-but-fiesty computer
+                            1999: I moved to Western Australia to start a new job at a small-but-feisty computer
                             business located near Margaret River. Whilst there I completed the Microsoft Certified
                             Systems Engineer certification (MSCE NT4) and gained a lot of hands-on networking
-                            experience.
-                            I also started to tinker with Linux systems and web development.
+                            experience. I started to tinker with Linux systems and web development.
                         </p>
                         <p>
                             2000: After a short stint as a Linux sys admin with an ISP in Goulburn, I headed back to
