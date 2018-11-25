@@ -71,6 +71,20 @@
                     <h3 class="title is-3">Projects / Work Samples</h3>
 
                     <article>
+                        <h5 class="title is-6 is-marginless">pubmed</h5>
+                        <p>
+                            Basic Go package for <a href="https://www.ncbi.nlm.nih.gov/pubmed/" target="_blank">Pubmed</a>
+                            queries.
+                        </p>
+                        <p>
+                            <a class="has-text-warning" href="https://github.com/mikedonnici/pubmed" target="_blank">
+                                <span class="icon"><i class="fab fa-github"></i></span>
+                                <span>Repo</span>
+                            </a>
+                        </p>
+                    </article>
+
+                    <article>
                         <h5 class="title is-6 is-marginless">RTCL.</h5>
                         <p>
                             Search and notification app for Pubmed articles. Back-end web api in Go,
