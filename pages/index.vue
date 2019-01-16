@@ -37,11 +37,10 @@
                     <h5 class="title is-5">IT Manager (Web Systems), CSANZ</h5>
                     <p class="subtitle is-6">Feb 2014 - present // Remote, Sydney</p>
                     <ul class="top-margin">
-                        <li>Consult to IT Committee on tech & dev issues</li>
+                        <li>Consult to IT Committee on tech &amp; dev issues</li>
                         <li>Dev and ops for MappCPD membership management system (PHP, MySQL, AWS, Heroku, Docker)</li>
                         <li>Develop web services (Golang, GraphQL, MySQL, MongoDB)</li>
-                        <li>General web development and site maintenance (WordPress, VuePress, Nuxt/VueJS)</li>
-                        <li>General network support as required (Windows, Office365)</li>
+                        <li>General web development and site maintenance (WordPress, VuePress, Nuxt.js/Vue.js)</li>
                     </ul>
                     <h5 class="title is-5">Owner / Director, Mesa</h5>
                     <p class="subtitle is-6">2004 - 2018 // Remote, Sydney</p>
@@ -68,7 +67,31 @@
         <section class="section">
             <div class="content">
                 <div class="container">
-                    <h3 class="title is-3">Projects / Work Samples</h3>
+                    <h3 class="title is-3">Work Samples</h3>
+
+                    <article>
+                        <h5 class="title is-6 is-marginless">RTCL.</h5>
+                        <p>
+                            Pubmed articles search and notification. Back-end <a href="https://golang.org" target="_blank">Go</a> 
+                            &amp; <a href="https://www.mongodb.com" target="_blank">MongoDB</a>, front-end web 
+                            <a href="https://nuxtjs.org/" target="_blank">Nuxt.js</a>.
+                        </p>
+                        <p>
+                            <a class="has-text-warning" href="https://github.com/8o8/rtcl-api" target="_blank">
+                                <span class="icon"><i class="fab fa-github"></i></span>
+                                <span>Repo (api)</span>
+                            </a>&nbsp;
+                            <a class="has-text-warning" href="https://github.com/8o8/rtcl" target="_blank">
+                                <span class="icon"><i class="fab fa-github"></i></span>
+                                <span>Repo (app)</span>
+                            </a>&nbsp;
+                            <a class="has-text-info" href="https://rtcl.io/" target="_blank">
+                                <span class="icon"><i class="fas fa-external-link-alt"></i></span>
+                                <span>rtcl.io</span>
+                            </a>&nbsp;
+                            <!--<span class="is-italic is-size-7">(login: member@mappcpd.com / demoMember1)</span>-->
+                        </p>
+                    </article>
 
                     <article>
                         <h5 class="title is-6 is-marginless">pubmed</h5>
@@ -81,29 +104,6 @@
                                 <span class="icon"><i class="fab fa-github"></i></span>
                                 <span>Repo</span>
                             </a>
-                        </p>
-                    </article>
-
-                    <article>
-                        <h5 class="title is-6 is-marginless">RTCL.</h5>
-                        <p>
-                            Search and notification app for Pubmed articles. Back-end web api in Go,
-                            front-end web app using <a href="https://nuxtjs.org/" target="_blank">NUXT</a>.
-                        </p>
-                        <p>
-                            <a class="has-text-warning" href="https://github.com/8o8/rtcl-api" target="_blank">
-                                <span class="icon"><i class="fab fa-github"></i></span>
-                                <span>Repo (api)</span>
-                            </a>&nbsp;
-                            <a class="has-text-warning" href="https://github.com/8o8/rtcl" target="_blank">
-                                <span class="icon"><i class="fab fa-github"></i></span>
-                                <span>Repo (app)</span>
-                            </a>&nbsp;
-                            <a class="has-text-info" href="https://rtcl.netlify.com/" target="_blank">
-                                <span class="icon"><i class="fas fa-external-link-alt"></i></span>
-                                <span>App Demo</span>
-                            </a>&nbsp;
-                            <!--<span class="is-italic is-size-7">(login: member@mappcpd.com / demoMember1)</span>-->
                         </p>
                     </article>
 
@@ -126,10 +126,6 @@
                             <a class="has-text-dark" href="https://api-docs.mappcpd.com/" target="_blank">
                                 <span class="icon"><i class="fas fa-file"></i></span>
                                 <span>API Docs</span>
-                            </a>&nbsp;
-                            <a class="has-text-dark" href="https://mappcpd-csanz-graphql.herokuapp.com/graphql" target="_blank">
-                                <span class="icon"><i class="fas fa-file"></i></span>
-                                <span>GraphiQL</span>
                             </a>&nbsp;
                         </p>
                     </article>
@@ -191,46 +187,43 @@
                 <section class="modal-card-body">
                     <div class="content">
                         <p>
-                            After completing an Ag. Science degree, lots of travel and numerous jobs, I moved back to
-                            Sydney and became a Quarantine Officer. In 1997 I decided to make the jump to IT and
-                            hunkered
-                            down on a small farm in the Hunter Valley to work and study Computing (by distance).
+                            After completing an Ag. Science degree I did a bit of travel and worked in a variety 
+                            of jobs. In 1994 I returned to Sydney and trained as a Quarantine Officer. In 1997 I 
+                            decided to make the jump to IT and hunkered down on a small farm in the Hunter Valley 
+                            to work and study Computing at Monash Uni, by distance.
                         </p>
-                        <p>1998: I scored a gig installing data cable for a small company in Port Macquarie where I
-                            showed
-                            a keen interest in all aspects of networking. Within 12 months I was providing network
-                            support
-                            to local businesses including Port Macquarie Base Hospital.
+                        <p>1998: Scored a gig installing data cable for a small company in Port Macquarie where I
+                            showed a keen interest in all aspects of networking. Within 12 months I was providing network
+                            support to local businesses including Port Macquarie Base Hospital.
                         </p>
                         <p>
-                            1999: I moved to Western Australia to start a new job at a small-but-feisty computer
+                            1999: Moved to Western Australia to start a new job at a small-but-feisty computer
                             business located near Margaret River. Whilst there I completed the Microsoft Certified
                             Systems Engineer certification (MSCE NT4) and gained a lot of hands-on networking
                             experience. I started to tinker with Linux systems and web development.
                         </p>
                         <p>
-                            2000: After a short stint as a Linux sys admin with an ISP in Goulburn, I headed back to
-                            Sydney and contracted as a Linux sys admin and LAMP stack developer.
+                            2000: A stint as a Linux sys admin with an ISP in Goulburn and then back to
+                            Sydney as a contracted Linux sys admin and LAMP stack developer.
                         </p>
                         <p>
-                            2004: I started a small company called Mesa which provided the full range of web design,
-                            development and hosting services. Over more than 10 years we developed a range of custom
-                            web
-                            applications in PHP/MySQL. Our final project was a web-based membership system (MappCPD)
-                            developed for the <a href="http://www.csanz.edu.au" title="the Cardiac Society of Australia and New Zealand" target="_blank">CSANZ</a> in 2013.
+                            2004: Kicked off a small company (Mesa), providing the full range of web design,
+                            development and hosting services. For over 10 years we developed a range of custom
+                            web applications in PHP/MySQL. Our final project was a web-based membership system (MappCPD)
+                            developed for the <a href="http://www.csanz.edu.au" 
+                            title="the Cardiac Society of Australia and New Zealand" target="_blank">CSANZ</a> in 2013.
                         </p>
                         <p>
-                            2014: I took up the position of IT Manager with CSANZ and have the sole responsibility for
-                            the ongoing development and maintenance of their web systems.
+                            2014: Started as IT Manager with the CSANZ and have the sole responsibility for
+                            the ongoing development and maintenance of web systems.
                         </p>
                         <hr>
                         <p>
                             I'm a proud father-of-two, husband, occasional sailor and fisherman, and a regular
-                            Brazilian
-                            Jiu Jitsu practitioner.
+                            Brazilian Jiu Jitsu practitioner.
                         </p>
                         <p>
-                            I am genetically motivated to learn and get stuff done.
+                            I am genetically motivated to learn and get things done.
                         </p>
                     </div>
                 </section>
