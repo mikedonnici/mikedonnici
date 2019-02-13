@@ -3,5 +3,6 @@
     "builds": [{
         "src": "package.json",
         "use": "@now/static-build"
-    }]
+    }],
+    "alias": "mike.8o8.io"
 }
