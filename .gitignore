@@ -13,3 +13,4 @@ dist
 .idea/
 .editorconfig
 .vscode
+.DS_Store
