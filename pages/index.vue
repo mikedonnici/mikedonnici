@@ -113,8 +113,7 @@
               <a
                 href="https://www.ncbi.nlm.nih.gov/pubmed/"
                 target="_blank"
-              >Pubmed</a>
-              queries.
+              >Pubmed</a> queries.
             </p>
             <p>
               <a
