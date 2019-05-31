@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "bulma": "^0.7.1",
-    "nuxt": "^1.4.1"
+    "nuxt": "^2.8.0"
   },
   "devDependencies": {
     "cross-env": "^5.0.1",
