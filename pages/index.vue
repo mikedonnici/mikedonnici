@@ -1,6 +1,6 @@
 <template>
   <div>
-    <Top/>
+    <Top />
 
     <section class="section">
       <div class="container">
@@ -28,7 +28,7 @@
       </div>
     </section>
 
-     <section class="section">
+    <section class="section">
       <div class="container">
         <div class="content">
           <h3 class="title is-3 is-marginless">Learning focus:</h3>
@@ -196,12 +196,43 @@
     <section class="section">
       <div class="content">
         <div class="container">
-          <h3 class="title is-3">Education &amp; Training</h3>
+          <h3 class="title is-3">Education</h3>
           <ul>
-            <li>2000 Microsoft Certified Systems Engineer (NT4)</li>
             <li>1998 Grad. Cert. Computing, Monash University</li>
             <li>1992 B.Sc.Agr (Crop Sciences), University of Sydney</li>
             <li>1988 HSC, Sydney Technical High School</li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="content">
+        <div class="container">
+          <h3 class="title is-3">Certification</h3>
+          <ul>
+            <li>2000 Microsoft Certified Systems Engineer (NT4)</li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="content">
+        <div class="container">
+          <h3 class="title is-3">Short courses</h3>
+          <ul>
+            <li>
+              2019-07 Programming with Go (Coursera/UCI)
+              <a
+                href="https://www.coursera.org/account/accomplishments/specialization/certificate/G2DCUC4YWEYW"
+                target="_blank"
+              >
+                <span class="icon">
+                  <i class="fas fa-external-link-alt"></i>
+                </span>
+              </a>
+            </li>
           </ul>
         </div>
       </div>
@@ -213,7 +244,7 @@
       title="Work History"
       subtitle="...a brief overview"
     >
-      <WorkHistory/>
+      <WorkHistory />
     </Modal>
 
     <Modal
@@ -222,7 +253,7 @@
       title="Projects"
       subtitle="...a few of the meatier ones"
     >
-      <Projects/>
+      <Projects />
     </Modal>
 
     <footer class="footer">
