@@ -23,7 +23,7 @@
       <div class="container">
         <div class="content">
           <h3 class="title is-3 is-marginless">Tech in use:</h3>
-          <p class="is-size-4">AWS, Docker, Git, Go, Heroku, Linux, MongoDB, MySQL, PHP, Vue.js</p>
+          <p class="is-size-4">AWS, Docker, Git, Go, Kotlin, Linux, PostgreSQL</p>
         </div>
       </div>
     </section>
@@ -32,7 +32,7 @@
       <div class="container">
         <div class="content">
           <h3 class="title is-3 is-marginless">Learning focus:</h3>
-          <p class="is-size-4">Go, Python, Vue/Nuxt.js</p>
+          <p class="is-size-4">AWS, Docker, Go, Kotlin</p>
         </div>
       </div>
     </section>
@@ -41,14 +41,24 @@
       <div class="content">
         <div class="container">
           <h3 class="title is-3">Employment:</h3>
+          
+          <h5 class="title is-5">Software Developer, <a href="http://humanetix.com.au/" target="_blank">Humanetix</a></h5>
+          <p class="subtitle is-6">Sep 2019 - present // Remote, Canberra</p>
+          <ul class="top-margin">
+            <li>Maintenance and development of web services for health care application (Go, Kotlin, Postgres)</li>
+            <li>Micro-services environment (AWS, Docker, Jenkins) 
+            <li>Agile (scrum) workflow (Jira, Bitbucket)</li>
+          </ul>
+          
           <h5 class="title is-5">IT Manager (Web Systems), CSANZ</h5>
-          <p class="subtitle is-6">Feb 2014 - present // Remote, Sydney</p>
+          <p class="subtitle is-6">Feb 2014 - Sep 2019 // Remote, Sydney</p>
           <ul class="top-margin">
             <li>Development of web services and api to extend MappCPD (Golang, GraphQL, MySQL, MongoDB)</li>
             <li>Maintenance and operational management of MappCPD membership system (PHP, MySQL, AWS, Heroku, Docker)</li>
             <li>General web development and site maintenance (WordPress, VuePress, Nuxt.js/Vue.js)</li>
             <li>Liaise with IT &amp; Education Committees</li>
           </ul>
+          
           <h5 class="title is-5">Owner / Director, Mesa</h5>
           <p class="subtitle is-6">2004 - 2018 // Remote, Sydney</p>
           <ul>
