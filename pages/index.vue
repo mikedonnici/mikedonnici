@@ -235,7 +235,7 @@
             <li>
               2020-04 Python 3 (Coursera/UMich)
               <a 
-                https://www.coursera.org/account/accomplishments/specialization/certificate/P9WXFP3YY67R
+                href="https://www.coursera.org/account/accomplishments/specialization/certificate/P9WXFP3YY67R" 
                 target="_blank"
               >
                 <span class="icon">
