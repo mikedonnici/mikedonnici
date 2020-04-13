@@ -233,6 +233,16 @@
           <h3 class="title is-3">Short courses</h3>
           <ul>
             <li>
+              2020-04 Python 3 (Coursera/UMich)
+              <a 
+                https://www.coursera.org/account/accomplishments/specialization/certificate/P9WXFP3YY67R
+                target="_blank"
+              >
+                <span class="icon">
+                  <i class="fas fa-external-link-alt"></i>
+                </span>
+              </a>
+            <li>
               2019-07 Programming with Go (Coursera/UCI)
               <a
                 href="https://www.coursera.org/account/accomplishments/specialization/certificate/G2DCUC4YWEYW"
