@@ -12,7 +12,7 @@
           </div>
           <div class="column">
             <h2 class="title is-2 is-size-4-mobile">Mike Donnici</h2>
-            <h4 class="subtitle is-4 is-size-6-mobile">Full-stack web developer</h4>
+            <h4 class="subtitle is-4 is-size-6-mobile">Software tradesman who likes Go.</h4>
           </div>
         </div>
       </div>

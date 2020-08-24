@@ -19,13 +19,12 @@
     </p>
     <p>
       2000: A stint as a Linux sys admin with an ISP in Goulburn and then back to
-      Sydney as a contracted Linux sys admin and LAMP stack developer.
+      Sydney as a contracted Linux administrator and LAMP stack developer.
     </p>
     <p>
       2004: Kicked off a small company (Mesa), providing the full range of web design,
-      development and hosting services. For over 10 years we developed a range of custom
-      web applications in PHP/MySQL. Our final project was a web-based membership system (MappCPD)
-      developed for the
+      development and hosting services. We developed a range of custom web applications in PHP/MySQL and our  final
+      project was a web-based membership system developed for the
       <a
         href="http://www.csanz.edu.au"
         title="the Cardiac Society of Australia and New Zealand"
@@ -33,8 +32,14 @@
       >CSANZ</a> in 2013.
     </p>
     <p>
-      2014: Started as IT Manager with the CSANZ and have the sole responsibility for
-      the development and maintenance of web systems.
+      2014: Employed as the Web Systems Manager with the Cardiac Society with the sole responsibility for ongoing developing
+      of their web-based membership system.
+    </p>
+    <p>
+      2019: Commenced as a Senior Software Engineer with <a href="http://humanetix.com.au" target="_blank">Humanetix</a>
+      (formerly SmartWard). Thrown headlong into a sea of micro-services, I've coded in Kotlin, written services in Go
+      and prototyped a data analytics service in Python. I've worked with Docker, tinkered with AWS CloudFormation and
+      experienced being part of a well-run, agile team.
     </p>
     
   </div>
