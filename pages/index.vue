@@ -14,11 +14,7 @@
                 I live in Jervis Bay on the NSW South Coast. I'm a proud husband and father, a disciple of
                 Brazilian Jiu Jitsu and a collector of carnivorous plants.
               <p class="is-size-4">
-                I've had quite a diverse range of <a href="#" @click="workHistoryModal=true">work experiences</a> which
-                has resulted in a low-jargon, pragmatic approach to work, and other things.
-              </p>
-              <p class="is-size-4">
-                I am genetically motivated and always learning.
+                I'm low-jargon, pragmatic, genetically motivated and always learning.
               </p>
             </div>
           </div>
@@ -35,30 +31,25 @@
           </h5>
           <p class="subtitle is-6">Sep 2019 - present // Remote, Canberra</p>
           <ul class="top-margin">
-            <li>Micro-services environment for health care application, mostly Go, Kotlin and Postgres</li>
-            <li>Current task is a prototype of a data analysis service in Python - a first foray into Data
-              Science, and I like it!
-            </li>
-            <li>Prior task was a re-write of a Kotlin service Go with a Postgres backend.</li>
-            <li>Exposure to AWS, Docker, Jenkins, Scrum, Jira</li>
+            <li>Micro-services environment for health-care application - mostly Go, a bit of Kotlin and Postgres</li>
+            <li>Built a prototype data analysis service with Python - a first foray into Data Science, and I like it!</li>
+            <li>Rewrote a Kotlin service in Go, added a Postgres backend</li>
+            <li>Docker, Jenkins, Scrum, Jira and a sprinkle of AWS</li>
           </ul>
 
           <h5 class="title is-5">Web Systems Manager @ The Cardiac Society of Australia and New Zealand</h5>
           <p class="subtitle is-6">Feb 2014 - Sep 2019 // Remote, Sydney</p>
           <ul class="top-margin">
-            <li>Development of web services and API to extend web monolith - Go, GraphQL, MySQL, MongoDB
-            </li>
-            <li>Maintenance and operational management of said monolith - a web-based membership and CPD
-              management system - PHP, MySQL, AWS, Heroku, Docker
-            </li>
-            <li>General web development and site maintenance (WordPress, VuePress, Nuxt.js/Vue.js)</li>
+            <li>Developed web services and API to extend web monolith - Go, GraphQL, MySQL, MongoDB</li>
+            <li>Dev and ops of same monolith - PHP, MySQL, AWS, Heroku, Docker</li>
+            <li>General web development and site maintenance - WordPress, VuePress, Vue/Nuxt.js</li>
             <li>Consult to IT &amp; Education Committees</li>
           </ul>
 
           <h5 class="title is-5">Owner @ Mesa Group Pty Ltd.</h5>
           <p class="subtitle is-6">2004 - 2018 // Remote, Sydney</p>
           <ul>
-            <li>Web development and services - LAMP &amp; Linux for days</li>
+            <li>Web development and services - LAMP for yonks!</li>
           </ul>
           <h5 class="title is-5">Previous</h5>
           <ul>
