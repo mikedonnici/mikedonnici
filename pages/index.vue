@@ -11,7 +11,7 @@
                 Hello, I'm Mike.
               </p>
               <p class="is-size-4">
-                I live in Jervis Bay on the NSW South Coast. I'm a proud husband and father of two, a disciple of
+                I live in Jervis Bay on the NSW South Coast. I'm a proud husband and father, a disciple of
                 Brazilian Jiu Jitsu and a collector of carnivorous plants.
               <p class="is-size-4">
                 I've had quite a diverse range of <a href="#" @click="workHistoryModal=true">work experiences</a> which
