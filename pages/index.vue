@@ -11,10 +11,12 @@
                 Hello, I'm Mike.
               </p>
               <p class="is-size-4">
-                I live in Jervis Bay on the NSW South Coast. I'm a proud husband and father, a disciple of
+                I live in Jervis Bay on the NSW South Coast. I'm a proud husband
+                and father, a disciple of
                 Brazilian Jiu Jitsu and a collector of carnivorous plants.
               <p class="is-size-4">
-                I'm low-jargon, pragmatic, genetically motivated and always learning.
+                I'm low-jargon, pragmatic, genetically motivated and always
+                learning.
               </p>
             </div>
           </div>
@@ -27,22 +29,49 @@
         <div class="container">
           <h3 class="title is-3">Employment</h3>
 
-          <h5 class="title is-5">Software Engineer @ <a href="http://humanetix.com.au/" target="_blank">Humanetix</a>
+          <h5 class="title is-5">Data Systems Developer @ <a
+              href="https://www.resourcesandgeoscience.nsw.gov.au/miners-and-explorers/geoscience-information/geological-survey-of-nsw"
+              target="_blank">Geological Survey of NSW</a>
           </h5>
-          <p class="subtitle is-6">Sep 2019 - present // Remote, Canberra</p>
+          <p class="subtitle is-6">Nov 2020 - present // Remote, Maitland</p>
           <ul class="top-margin">
-            <li>Micro-services environment for health-care application - mostly Go, a bit of Kotlin and Postgres</li>
-            <li>Built a prototype data analysis service with Python - a first foray into Data Science, and I like it!</li>
-            <li>Rewrote a Kotlin service in Go, added a Postgres backend</li>
+            <li>Dev and Ops for <a href="https://minview.geoscience.nsw.gov.au/"
+                                   target="_blank">MinView</a> and
+              <a href="https://digs.geoscience.nsw.gov.au/"
+                 target="_blank">DiGS</a> systems.
+            </li>
+            <li>Backend service with Postgres / PostGIS, Python, Go.</li>
+            <li>Frontend applications with Angular.</li>
+            <li>Ops with AWS and SaltStack.</li>
+            <li>Exposure to Geospatial data, GeoServer, SOLR, Pulsar.</li>
+          </ul>
+
+          <h5 class="title is-5">Software Engineer @ <a
+              href="http://humanetix.com.au/" target="_blank">Humanetix</a>
+          </h5>
+          <p class="subtitle is-6">Sep 2019 - Nov 2020 // Remote, Canberra</p>
+          <ul class="top-margin">
+            <li>Micro-services environment for health-care application - mostly
+              Go, a bit of Kotlin and Postgres.
+            </li>
+            <li>Built a prototype data analysis service with Python - a first
+              foray into Data Science.
+            </li>
             <li>Docker, Jenkins, Scrum, Jira and a sprinkle of AWS</li>
           </ul>
 
-          <h5 class="title is-5">Web Systems Manager @ The Cardiac Society of Australia and New Zealand</h5>
+          <h5 class="title is-5">Web Systems Manager @ The Cardiac Society of
+            Australia and New Zealand</h5>
           <p class="subtitle is-6">Feb 2014 - Sep 2019 // Remote, Sydney</p>
           <ul class="top-margin">
-            <li>Developed web services and API to extend web monolith - Go, GraphQL, MySQL, MongoDB</li>
-            <li>Dev and ops of same monolith - PHP, MySQL, AWS, Heroku, Docker</li>
-            <li>General web development and site maintenance - WordPress, VuePress, Vue/Nuxt.js</li>
+            <li>Developed web services and API to extend web monolith - Go,
+              GraphQL, MySQL, MongoDB
+            </li>
+            <li>Dev and ops of same monolith - PHP, MySQL, AWS, Heroku, Docker
+            </li>
+            <li>General web development and site maintenance - WordPress,
+              VuePress, Vue/Nuxt.js
+            </li>
             <li>Consult to IT &amp; Education Committees</li>
           </ul>
 
@@ -53,10 +82,16 @@
           </ul>
           <h5 class="title is-5">Previous</h5>
           <ul>
-            <li>2000 - 2004: Contract Linux systems admin and LAMP stack development</li>
-            <li>1997 - 2000: Data cable installation, hardware &amp; network admin</li>
+            <li>2000 - 2004: Contract Linux systems admin and LAMP stack
+              development
+            </li>
+            <li>1997 - 2000: Data cable installation, hardware &amp; network
+              admin
+            </li>
             <li>1994 - 1997: Quarantine officer, kickboxing instructor</li>
-            <li>1992 - 1994: Farmhand, trades assistant, travel, youthful exuberance</li>
+            <li>1992 - 1994: Farmhand, trades assistant, travel, youthful
+              exuberance
+            </li>
           </ul>
         </div>
       </div>
@@ -78,17 +113,20 @@
                   target="_blank"
               >Go</a>
               &amp;
-              <a href="https://www.mongodb.com" target="_blank">MongoDB</a>, front-end web
+              <a href="https://www.mongodb.com" target="_blank">MongoDB</a>,
+              front-end web
               <a href="https://nuxtjs.org/" target="_blank">Nuxt.js</a>.
             </p>
             <p>
-              <a class="has-text-warning" href="https://github.com/8o8/rtcl-api" target="_blank">
+              <a class="has-text-warning" href="https://github.com/8o8/rtcl-api"
+                 target="_blank">
                 <span class="icon">
                   <i class="fab fa-github"></i>
                 </span>
                 <span>Repo (api)</span>
               </a>&nbsp;
-              <a class="has-text-warning" href="https://github.com/8o8/rtcl" target="_blank">
+              <a class="has-text-warning" href="https://github.com/8o8/rtcl"
+                 target="_blank">
                 <span class="icon">
                   <i class="fab fa-github"></i>
                 </span>
@@ -130,7 +168,8 @@
             <h5 class="title is-6 is-marginless">MappCPD Web Services</h5>
             <p>
               Web services written in Go to extend a monolithic PHP application.
-              Includes a web API, GraphQL API, short-link redirector, Pubmed article fetcher, Algolia
+              Includes a web API, GraphQL API, short-link redirector, Pubmed
+              article fetcher, Algolia
               indexer.
             </p>
             <p>
@@ -144,13 +183,15 @@
                 </span>
                 <span>Repo</span>
               </a>&nbsp;
-              <a class="has-text-info" href="https://articles.netlify.com" target="_blank">
+              <a class="has-text-info" href="https://articles.netlify.com"
+                 target="_blank">
                 <span class="icon">
                   <i class="fas fa-external-link-alt"></i>
                 </span>
                 <span>Article Search Demo</span>
               </a>&nbsp;
-              <a class="has-text-dark" href="https://api-docs.mappcpd.com/" target="_blank">
+              <a class="has-text-dark" href="https://api-docs.mappcpd.com/"
+                 target="_blank">
                 <span class="icon">
                   <i class="fas fa-file"></i>
                 </span>
@@ -193,7 +234,8 @@
           <ul>
             <li>
               2020-06 Data Scientist in Python [in progress] -
-              (<a href="https://www.dataquest.io/path/data-scientist/" target="_blank">dataquest.io</a>)
+              (<a href="https://www.dataquest.io/path/data-scientist/"
+                  target="_blank">dataquest.io</a>)
             </li>
             <li>
               2020-04 Python 3 (Coursera/UMich)
@@ -237,7 +279,8 @@
               </span>
               <span>Work History</span>
             </button>
-            <a href="https://github.com/mikedonnici" target="_blank" class="button is-outline">
+            <a href="https://github.com/mikedonnici" target="_blank"
+               class="button is-outline">
               <span class="icon">
                 <i class="fab fa-github"></i>
               </span>
@@ -267,73 +310,73 @@
 </template>
 
 <script>
-    import Top from "~/components/top"
-    import Modal from "~/components/modal"
-    import WorkHistory from "~/components/workHistory"
+import Top from "~/components/top"
+import Modal from "~/components/modal"
+import WorkHistory from "~/components/workHistory"
 
-    export default {
-        head() {
-            return {
-                title:
-                    "Full stack web developer (AWS, Docker, Git, Go, Heroku, Linux, MongoDB, MySQL, PHP, Vue.js / Nuxt.js)",
-                meta: [
-                    {
-                        hid: "description",
-                        name: "description",
-                        content:
-                            "Michael Donnici: Full stack web developer NSW South Coast. Working primarily with Go and Vue.js. Pragmatic, reliable, always learning."
-                    }
-                ]
-            }
-        },
-        components: {
-            Top,
-            Modal,
-            WorkHistory,
-        },
-        data() {
-            return {
-                workHistoryModal: false,
-                projectsModal: false,
-                email: "michael@mesa.net.au"
-            }
-        },
-        methods: {
-            showWorkHistoryModal() {
-                return this.workHistoryModal
-            },
-            hideWorkHistoryModal() {
-                this.workHistoryModal = false
-                return this.workHistoryModal
-            },
-            hideProjectsModal() {
-                this.projectsModal = false
-                return this.projectsModal
-            }
+export default {
+  head() {
+    return {
+      title:
+          "Full stack web developer (AWS, Docker, Git, Go, Heroku, Linux, MongoDB, MySQL, PHP, Vue.js / Nuxt.js)",
+      meta: [
+        {
+          hid: "description",
+          name: "description",
+          content:
+              "Michael Donnici: Full stack web developer NSW South Coast. Working primarily with Go and Vue.js. Pragmatic, reliable, always learning."
         }
+      ]
     }
+  },
+  components: {
+    Top,
+    Modal,
+    WorkHistory,
+  },
+  data() {
+    return {
+      workHistoryModal: false,
+      projectsModal: false,
+      email: "michael@mesa.net.au"
+    }
+  },
+  methods: {
+    showWorkHistoryModal() {
+      return this.workHistoryModal
+    },
+    hideWorkHistoryModal() {
+      this.workHistoryModal = false
+      return this.workHistoryModal
+    },
+    hideProjectsModal() {
+      this.projectsModal = false
+      return this.projectsModal
+    }
+  }
+}
 </script>
 
 <style>
-  .section {
-    padding-bottom: 0;
-  }
+.section {
+  padding-bottom: 0;
+}
 
-  article {
-    margin-bottom: 1.4rem;
-  }
+article {
+  margin-bottom: 1.4rem;
+}
 
-  .content ul {
-    margin-top: -0.6rem;
-    margin-left: 1.8rem;
-  }
+.content ul {
+  margin-top: -0.6rem;
+  margin-left: 1.8rem;
+}
 
-  .footer {
-    margin-top: 2rem;
-  }
+.footer {
+  margin-top: 2rem;
+}
 
-  img {
-    border-radius: 50%;
-    border: solid 3px #dff3fa;
-  }
+img {
+  border-radius: 50%;
+  border: solid 3px #dff3fa;
+}
 </style>
