@@ -40,12 +40,12 @@
 > **Web Services Manager, Cardiac Society of Australia and New Zealand**<br>
 > _Feb 2014 - Sep 2019 // remote (Sydney)_<br>
 > • Developed and maintained membership / CPD application<br>
-> Extended existing monolith with new services and APIs
+> • Extended existing monolith with new services and APIs
 
 > **Principal Owner, Mesa Group Pty Ltd.**<br>
 > _2004 - 2018 // Sydney_<br>
 > • Led a small, feisty team providing web development and services<br>
-> •Managed all phases of development to deliver quality, fit-for-purpose
+> • Managed all phases of development to deliver quality, fit-for-purpose
 > solutions
 
 > **Self Employed, dataLab**<br>
