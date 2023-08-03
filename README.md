@@ -63,9 +63,3 @@
 > • 2000 - Microsoft Certified Systems Engineer (NT4.0)<br>
 > • 1998 - Grad. Cert. Computing, Monash University<br>
 > • 1992 - B.Sc.Agr (Crop Sciences), University of Sydney
-
-
-Use Control + Shift + m to toggle the tab key moving focus. Alternatively, use esc then tab to move to the next interactive element on the page.
-No file chosen
-Attach files by dragging & dropping, selecting or pasting them.
-Editing mikedonnici/cv/README.md at master · mikedonnici/mikedonnici
