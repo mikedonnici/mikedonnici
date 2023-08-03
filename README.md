@@ -1,11 +1,188 @@
-![island](https://user-images.githubusercontent.com/7648805/133950534-1be274cd-a5f7-406e-9ab2-5884aae10b8b.png)
+Skip to content
+mikedonnici
+/
+mikedonnici
 
-# Hello!
+Type / to search
+
+Code
+Issues
+Pull requests
+7
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
+Pane width
+Use a value between 13% and 51%
+
+16
+Change width
+Code
+Go to file
+t
+cv
+static
+README.md
+.gitignore
+README.md
+Documentation • Share feedback
+mikedonnici/mikedonnici is a special repository: its README.md will appear on your profile!
+Breadcrumbsmikedonnici/cv
+/
+README.md
+in
+master
+
+Edit
+
+Preview
+Indent mode
+
+Spaces
+Indent size
+
+2
+Line wrap mode
+
+Soft wrap
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+## Mike Donnici
+
+> I am a motivated all-rounder with a good mix of full-stack experience.<br>
+> My current focus is on backend development with Go and Python.<br>
+> <br>
+> In the continuum of software
+> developer [tribes](https://josephg.com/blog/3-tribes/) I would fall about
+> here:<br>
+> <br>
+> builder ____ :construction_worker: ____ engineer _________ mathematician
+
+## Tech
+
+> • _now:_ Go, Python, MySQL, Docker<br>
+> • _prev:_ PHP, Vue, Postgres/PostGIS, GeoServer<br>
+> • _some:_ Jupyter, Pandas, MongoDB<br>
+> • _play:_ Rust, Unison
+
+## Employment
+
+> **Software Developer, Regrow Ag**<br>
+> _Oct 2021 - Present // remote (Global)_<br>
+> • Developing backend services
+> for [Flurosense](https://www.regrow.ag/flurosense)
+> and [MRV](https://www.regrow.ag/mrv) products
+
+> **Geoscience Data Systems Developer, Geological Survey of NSW**<br>
+> _Nov 2020 - Oct 2021 // remote (Maitland, NSW)_<br>
+> • Work closely with data team to develop backend services
+> for public web applications: [MinView](https://minview.geoscience.nsw.gov.au/)
+> and [DiGS](https://search.geoscience.nsw.gov.au/)<br>
+> • Server management and DevOps, some geospatial experience
+
+> **Software Engineer, Humanetix**<br>
+> _Sep 2019 - Nov 2020 // remote (Canberra, ACT)_<br>
+> • Worked on team developing [Ace](https://www.humanetix.com.au/ace) healthcare
+> application<br>
+> • Prototyped data analysis component for the application
+
+> **Web Services Manager, Cardiac Society of Australia and New Zealand**<br>
+> _Feb 2014 - Sep 2019 // remote (Sydney)_<br>
+> • Developed and maintained membership / CPD application<br>
+> • Extended existing monolith with new services and APIs
+
+> **Principal Owner, Mesa Group Pty Ltd.**<br>
+> _2004 - 2018 // Sydney_<br>
+> • Led a small, feisty team providing web development and services<br>
+> • Managed all phases of development to deliver quality, fit-for-purpose
+> solutions
+
+> **Self Employed, dataLab**<br>
+> _2000 - 2004 // Sydney_<br>
+> • Provided contract Linux systems administration services<br>
+> • Developed custom web applications
+
+> **Network Support Technician, SouthWest ComputAble**</br>
+> _1999 - 2000 // Margaret River, WA_<br>
+> • Provided PC repairs and network support for regional customers<br>
+> • Enhanced network support capability through the attainment of MCSE
+
+## Education
+
+> • 2000 - Microsoft Certified Systems Engineer (NT4.0)<br>
+> • 1998 - Grad. Cert. Computing, Monash University<br>
+> • 1992 - B.Sc.Agr (Crop Sciences), University of Sydney
 
 
-
-
-
-
-
-
+Use Control + Shift + m to toggle the tab key moving focus. Alternatively, use esc then tab to move to the next interactive element on the page.
+No file chosen
+Attach files by dragging & dropping, selecting or pasting them.
+Editing mikedonnici/cv/README.md at master · mikedonnici/mikedonnici
